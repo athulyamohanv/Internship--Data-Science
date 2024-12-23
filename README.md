@@ -1,0 +1,1 @@
+This project focuses on predicting whether an attorney will be involved in a claim based on claim-related factors. This capability aids insurance companies in optimizing processes, reducing legal costs, and allocating resources effectively.
